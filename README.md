@@ -1,0 +1,2 @@
+# Impact-of-Car-Features-on-Price-and-Profitability
+Analyzing the Impact of Car Features on Price and Profitability" explores how various vehicle attributes—like engine size, safety features, brand, and technology—affect market prices and overall profitability. The study aims to identify which features drive higher sales and profit margins, providing insights for manufacturers and consumers alike.
